@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1>Hola, i'm  Gus!</h1>
 <p><em>Web developer Trainee Independent<img src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" width="30"> </em></p>
-<p><em>Computer engineer from <a href="www.uagro.mx">Universidad Autónoma de Guerrero (UAGro)</a><img src="https://carrerainglesuce.files.wordpress.com/2019/05/graduado-birrete-83978.gif" width="30">
+<p><em>Computer engineer from <a href="https://www.uagro.mx/">Universidad Autónoma de Guerrero (UAGro)</a><img src="https://carrerainglesuce.files.wordpress.com/2019/05/graduado-birrete-83978.gif" width="30">
 
 [![Linkedin: GustavoSilva](https://img.shields.io/badge/-GustavoSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-silva-granados95/)](https://www.linkedin.com/in/gustavo-silva-granados95/)
 [![GitHub GustavoSilva](https://img.shields.io/github/followers/GustavoSilva?label=follow&style=social)](https://github.com/soygussil)
