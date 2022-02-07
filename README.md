@@ -37,7 +37,7 @@ const Gustavo = {
   techCommunities: {
                         apprentice: 'Innovaccion Virtual','Udemy'
                       },
- challenge: "Become a fullstack web developer in 2022"
+ challenge: "Become a fullstack web developer by the end of 2022"
 }
 ```
 
