@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1>Hola, i'm  Gus!</h1>
+<h1>Hey!, i'm  Gus!</h1>
 <p><em>Web developer Trainee Independent<img src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" width="30"> </em></p>
 <p><em>Computer engineer from <a href="https://www.uagro.mx/">Universidad Autónoma de Guerrero (UAGro)</a><img src="https://carrerainglesuce.files.wordpress.com/2019/05/graduado-birrete-83978.gif" width="30">
 
