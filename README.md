@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <p>I'm Gustavo (<i>aka Gus</i>) a computer engineer trying to learn web development.
-My passion is video games, listening to music, a little geek.
+My passion is play video games, listening to music, a little geek.
 </p>
 
 </div>
