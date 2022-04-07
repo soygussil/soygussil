@@ -48,7 +48,7 @@ My passion is play video games, listening to music, a little geek.
 
 ```javascript
 const Gustavo = {
-  Age:  '26 Yo',
+  Age:  '27 Yo',
   code: ['Javascript','HTML','CSS','Java','Python','SQL'],
   tools: [Azure],
   interests: ['IoT', 'Embedded systems', 'Cloud'],
