@@ -53,7 +53,7 @@ const Gustavo = {
   tools: [Azure],
   interests: ['IoT', 'Embedded systems', 'Cloud'],
   techCommunities: {
-                        apprentice: 'Innovaccion Virtual','Udemy'
+                        apprentice: 'Innovaccion Virtual','Udemy, GenerationMX'
                       },
  challenge: "Become a fullstack web developer by the end of 2022"
 }
