@@ -64,6 +64,15 @@ const Gustavo = {
   
 - 🌱 I’m currently learning web development
 
+  
+  # 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=soygussil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=soygussil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soygussil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=soygussil&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   
   
