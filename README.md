@@ -39,7 +39,7 @@ My passion is play video games, listening to music, a little geek.
 
 </div>
 
-[![Linkedin: GustavoSilva](https://img.shields.io/badge/-GustavoSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-silva-granados95/)](https://www.linkedin.com/in/gustavo-silva-granados95/)
+[![Linkedin: GustavoSilva](https://img.shields.io/badge/-GustavoSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusilvagr/)](https://www.linkedin.com/in/gusilvagr/)
 [![GitHub GustavoSilva](https://img.shields.io/github/followers/GustavoSilva?label=follow&style=social)](https://github.com/soygussil)
 
 <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
@@ -48,14 +48,14 @@ My passion is play video games, listening to music, a little geek.
 
 ```javascript
 const Gustavo = {
-  Age:  '27 Yo',
+  Age:  '28 Yo',
   code: ['Javascript','HTML','CSS','Java','Python','SQL'],
-  tools: [Azure],
+  tools: [Azure, Appian],
   interests: ['IoT', 'Embedded systems', 'Cloud'],
   techCommunities: {
                         apprentice: 'Innovaccion Virtual','Udemy, GenerationMX'
                       },
- challenge: "Become a fullstack web developer by the end of 2022"
+
 }
 ```
 
